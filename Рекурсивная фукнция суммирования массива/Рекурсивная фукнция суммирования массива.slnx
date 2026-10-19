@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Рекурсивная фукнция суммирования массива/Рекурсивная фукнция суммирования массива.vcxproj" />
+</Solution>

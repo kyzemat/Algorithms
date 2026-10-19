@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Грокаем алгоритмы граф/Грокаем алгоритмы граф.vcxproj" Id="51655918-e874-4bef-8fe0-d6ec1accbab7" />
+</Solution>

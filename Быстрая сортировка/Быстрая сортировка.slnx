@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Быстрая сортировка/Быстрая сортировка.vcxproj" Id="550f7e82-d4b3-422e-ae15-708c3b7d7108" />
+</Solution>
